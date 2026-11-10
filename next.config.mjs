@@ -5,7 +5,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 /**
  * GitHub Pages serves project pages under `/<repo>/`. The deploy workflow
- * exports `NEXT_PUBLIC_BASE_PATH=/furniture_storytelling`. Locally the env
+ * exports `NEXT_PUBLIC_BASE_PATH=/CURB_real_time`. Locally the env
  * is unset → no prefix → http://localhost:3000/ works as usual.
  */
 const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";

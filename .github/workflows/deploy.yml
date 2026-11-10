@@ -31,7 +31,7 @@ jobs:
 
       - name: Build static site
         env:
-          NEXT_PUBLIC_BASE_PATH: /furniture_storytelling
+          NEXT_PUBLIC_BASE_PATH: /CURB_real_time
           NEXT_PUBLIC_PETITION_ENDPOINT: ${{ secrets.PETITION_ENDPOINT }}
         run: pnpm build
 
