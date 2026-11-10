@@ -1,0 +1,847 @@
+[
+  {
+    "month": "2012-04",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 760
+  },
+  {
+    "month": "2012-05",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1392
+  },
+  {
+    "month": "2012-06",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1429
+  },
+  {
+    "month": "2012-07",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1635
+  },
+  {
+    "month": "2012-08",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 3086
+  },
+  {
+    "month": "2012-09",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 704
+  },
+  {
+    "month": "2012-10",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 815
+  },
+  {
+    "month": "2012-11",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 618
+  },
+  {
+    "month": "2012-12",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 589
+  },
+  {
+    "month": "2013-01",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 564
+  },
+  {
+    "month": "2013-02",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 570
+  },
+  {
+    "month": "2013-03",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 634
+  },
+  {
+    "month": "2013-04",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 882
+  },
+  {
+    "month": "2013-05",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1424
+  },
+  {
+    "month": "2013-06",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1603
+  },
+  {
+    "month": "2013-07",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1733
+  },
+  {
+    "month": "2013-08",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 3465
+  },
+  {
+    "month": "2013-09",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 992
+  },
+  {
+    "month": "2013-10",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 695
+  },
+  {
+    "month": "2013-11",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 719
+  },
+  {
+    "month": "2013-12",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 656
+  },
+  {
+    "month": "2014-01",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 587
+  },
+  {
+    "month": "2014-02",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 642
+  },
+  {
+    "month": "2014-03",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 684
+  },
+  {
+    "month": "2014-04",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 895
+  },
+  {
+    "month": "2014-05",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1898
+  },
+  {
+    "month": "2014-06",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2171
+  },
+  {
+    "month": "2014-07",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1976
+  },
+  {
+    "month": "2014-08",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 4268
+  },
+  {
+    "month": "2014-09",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1096
+  },
+  {
+    "month": "2014-10",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 908
+  },
+  {
+    "month": "2014-11",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 799
+  },
+  {
+    "month": "2014-12",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 860
+  },
+  {
+    "month": "2015-01",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 657
+  },
+  {
+    "month": "2015-02",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 729
+  },
+  {
+    "month": "2015-03",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 959
+  },
+  {
+    "month": "2015-04",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1053
+  },
+  {
+    "month": "2015-05",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2127
+  },
+  {
+    "month": "2015-06",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2263
+  },
+  {
+    "month": "2015-07",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2236
+  },
+  {
+    "month": "2015-08",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 4846
+  },
+  {
+    "month": "2015-09",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1211
+  },
+  {
+    "month": "2015-10",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 992
+  },
+  {
+    "month": "2015-11",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 890
+  },
+  {
+    "month": "2015-12",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 975
+  },
+  {
+    "month": "2016-01",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 778
+  },
+  {
+    "month": "2016-02",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 570
+  },
+  {
+    "month": "2016-03",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 845
+  },
+  {
+    "month": "2016-04",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1069
+  },
+  {
+    "month": "2016-05",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1860
+  },
+  {
+    "month": "2016-06",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1935
+  },
+  {
+    "month": "2016-07",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1959
+  },
+  {
+    "month": "2016-08",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 4276
+  },
+  {
+    "month": "2016-09",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1078
+  },
+  {
+    "month": "2016-10",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 737
+  },
+  {
+    "month": "2016-11",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 758
+  },
+  {
+    "month": "2016-12",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 699
+  },
+  {
+    "month": "2017-01",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 749
+  },
+  {
+    "month": "2017-02",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 568
+  },
+  {
+    "month": "2017-03",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 889
+  },
+  {
+    "month": "2017-04",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 938
+  },
+  {
+    "month": "2017-05",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1903
+  },
+  {
+    "month": "2017-06",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1935
+  },
+  {
+    "month": "2017-07",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2256
+  },
+  {
+    "month": "2017-08",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 4558
+  },
+  {
+    "month": "2017-09",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 948
+  },
+  {
+    "month": "2017-10",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 825
+  },
+  {
+    "month": "2017-11",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 776
+  },
+  {
+    "month": "2017-12",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 772
+  },
+  {
+    "month": "2018-01",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 836
+  },
+  {
+    "month": "2018-02",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 654
+  },
+  {
+    "month": "2018-03",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 940
+  },
+  {
+    "month": "2018-04",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1208
+  },
+  {
+    "month": "2018-05",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2042
+  },
+  {
+    "month": "2018-06",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1738
+  },
+  {
+    "month": "2018-07",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2754
+  },
+  {
+    "month": "2018-08",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 4880
+  },
+  {
+    "month": "2018-09",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 884
+  },
+  {
+    "month": "2018-10",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 781
+  },
+  {
+    "month": "2018-11",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 752
+  },
+  {
+    "month": "2018-12",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 745
+  },
+  {
+    "month": "2019-01",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 747
+  },
+  {
+    "month": "2019-02",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 666
+  },
+  {
+    "month": "2019-03",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 882
+  },
+  {
+    "month": "2019-04",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1261
+  },
+  {
+    "month": "2019-05",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2107
+  },
+  {
+    "month": "2019-06",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1892
+  },
+  {
+    "month": "2019-07",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2424
+  },
+  {
+    "month": "2019-08",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 4758
+  },
+  {
+    "month": "2019-09",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 902
+  },
+  {
+    "month": "2019-10",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 850
+  },
+  {
+    "month": "2019-11",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 808
+  },
+  {
+    "month": "2019-12",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 715
+  },
+  {
+    "month": "2020-01",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 735
+  },
+  {
+    "month": "2020-02",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 690
+  },
+  {
+    "month": "2020-03",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 784
+  },
+  {
+    "month": "2020-04",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 663
+  },
+  {
+    "month": "2020-05",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1393
+  },
+  {
+    "month": "2020-06",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1881
+  },
+  {
+    "month": "2020-07",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2704
+  },
+  {
+    "month": "2020-08",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 4091
+  },
+  {
+    "month": "2020-09",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1080
+  },
+  {
+    "month": "2020-10",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1077
+  },
+  {
+    "month": "2020-11",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 939
+  },
+  {
+    "month": "2020-12",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 834
+  },
+  {
+    "month": "2021-01",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 884
+  },
+  {
+    "month": "2021-02",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 969
+  },
+  {
+    "month": "2021-03",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1251
+  },
+  {
+    "month": "2021-04",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1810
+  },
+  {
+    "month": "2021-05",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2747
+  },
+  {
+    "month": "2021-06",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2657
+  },
+  {
+    "month": "2021-07",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 3453
+  },
+  {
+    "month": "2021-08",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 6255
+  },
+  {
+    "month": "2021-09",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1105
+  },
+  {
+    "month": "2021-10",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 894
+  },
+  {
+    "month": "2021-11",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 930
+  },
+  {
+    "month": "2021-12",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 764
+  },
+  {
+    "month": "2022-01",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 746
+  },
+  {
+    "month": "2022-02",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 767
+  },
+  {
+    "month": "2022-03",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1066
+  },
+  {
+    "month": "2022-04",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 1274
+  },
+  {
+    "month": "2022-05",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2345
+  },
+  {
+    "month": "2022-06",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2330
+  },
+  {
+    "month": "2022-07",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2775
+  },
+  {
+    "month": "2022-08",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 5700
+  },
+  {
+    "month": "2022-09",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 964
+  },
+  {
+    "month": "2022-10",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 685
+  },
+  {
+    "month": "2022-11",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 679
+  },
+  {
+    "month": "2022-12",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 612
+  },
+  {
+    "month": "2023-01",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 645
+  },
+  {
+    "month": "2023-02",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 635
+  },
+  {
+    "month": "2023-03",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 849
+  },
+  {
+    "month": "2023-04",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 978
+  },
+  {
+    "month": "2023-05",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2387
+  },
+  {
+    "month": "2023-06",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 2308
+  },
+  {
+    "month": "2023-07",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 3608
+  },
+  {
+    "month": "2023-08",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 4472
+  },
+  {
+    "month": "2023-09",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 874
+  },
+  {
+    "month": "2023-10",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 635
+  },
+  {
+    "month": "2023-11",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 596
+  },
+  {
+    "month": "2023-12",
+    "boston311BulkyPickups": 0,
+    "bostonPermits": 528
+  },
+  {
+    "month": "2024-01",
+    "boston311BulkyPickups": 1611,
+    "bostonPermits": 652
+  },
+  {
+    "month": "2024-02",
+    "boston311BulkyPickups": 1441,
+    "bostonPermits": 721
+  },
+  {
+    "month": "2024-03",
+    "boston311BulkyPickups": 1576,
+    "bostonPermits": 896
+  },
+  {
+    "month": "2024-04",
+    "boston311BulkyPickups": 1493,
+    "bostonPermits": 1358
+  },
+  {
+    "month": "2024-05",
+    "boston311BulkyPickups": 1948,
+    "bostonPermits": 2099
+  },
+  {
+    "month": "2024-06",
+    "boston311BulkyPickups": 2037,
+    "bostonPermits": 2109
+  },
+  {
+    "month": "2024-07",
+    "boston311BulkyPickups": 2350,
+    "bostonPermits": 3777
+  },
+  {
+    "month": "2024-08",
+    "boston311BulkyPickups": 3056,
+    "bostonPermits": 4180
+  },
+  {
+    "month": "2024-09",
+    "boston311BulkyPickups": 3090,
+    "bostonPermits": 902
+  },
+  {
+    "month": "2024-10",
+    "boston311BulkyPickups": 1867,
+    "bostonPermits": 760
+  },
+  {
+    "month": "2024-11",
+    "boston311BulkyPickups": 1589,
+    "bostonPermits": 643
+  },
+  {
+    "month": "2024-12",
+    "boston311BulkyPickups": 1371,
+    "bostonPermits": 600
+  },
+  {
+    "month": "2025-01",
+    "boston311BulkyPickups": 1330,
+    "bostonPermits": 641
+  },
+  {
+    "month": "2025-02",
+    "boston311BulkyPickups": 1360,
+    "bostonPermits": 622
+  },
+  {
+    "month": "2025-03",
+    "boston311BulkyPickups": 1702,
+    "bostonPermits": 876
+  },
+  {
+    "month": "2025-04",
+    "boston311BulkyPickups": 1594,
+    "bostonPermits": 1424
+  },
+  {
+    "month": "2025-05",
+    "boston311BulkyPickups": 1993,
+    "bostonPermits": 2210
+  },
+  {
+    "month": "2025-06",
+    "boston311BulkyPickups": 2062,
+    "bostonPermits": 2185
+  },
+  {
+    "month": "2025-07",
+    "boston311BulkyPickups": 2358,
+    "bostonPermits": 3777
+  },
+  {
+    "month": "2025-08",
+    "boston311BulkyPickups": 3146,
+    "bostonPermits": 4207
+  },
+  {
+    "month": "2025-09",
+    "boston311BulkyPickups": 2985,
+    "bostonPermits": 925
+  },
+  {
+    "month": "2025-10",
+    "boston311BulkyPickups": 1908,
+    "bostonPermits": 752
+  },
+  {
+    "month": "2025-11",
+    "boston311BulkyPickups": 1648,
+    "bostonPermits": 636
+  },
+  {
+    "month": "2025-12",
+    "boston311BulkyPickups": 1517,
+    "bostonPermits": 669
+  },
+  {
+    "month": "2026-01",
+    "boston311BulkyPickups": 1744,
+    "bostonPermits": 594
+  },
+  {
+    "month": "2026-02",
+    "boston311BulkyPickups": 1913,
+    "bostonPermits": 711
+  },
+  {
+    "month": "2026-03",
+    "boston311BulkyPickups": 2388,
+    "bostonPermits": 949
+  },
+  {
+    "month": "2026-04",
+    "boston311BulkyPickups": 1425,
+    "bostonPermits": 872
+  }
+]

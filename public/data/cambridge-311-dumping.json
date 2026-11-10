@@ -1,0 +1,534 @@
+[
+  {
+    "month": "2010-06",
+    "cambridge311": 1
+  },
+  {
+    "month": "2013-02",
+    "cambridge311": 1
+  },
+  {
+    "month": "2013-04",
+    "cambridge311": 11
+  },
+  {
+    "month": "2013-05",
+    "cambridge311": 1
+  },
+  {
+    "month": "2013-09",
+    "cambridge311": 1
+  },
+  {
+    "month": "2014-07",
+    "cambridge311": 1
+  },
+  {
+    "month": "2014-08",
+    "cambridge311": 1
+  },
+  {
+    "month": "2015-08",
+    "cambridge311": 2
+  },
+  {
+    "month": "2015-12",
+    "cambridge311": 1
+  },
+  {
+    "month": "2016-01",
+    "cambridge311": 10
+  },
+  {
+    "month": "2016-02",
+    "cambridge311": 24
+  },
+  {
+    "month": "2016-03",
+    "cambridge311": 44
+  },
+  {
+    "month": "2016-04",
+    "cambridge311": 22
+  },
+  {
+    "month": "2016-05",
+    "cambridge311": 17
+  },
+  {
+    "month": "2016-06",
+    "cambridge311": 22
+  },
+  {
+    "month": "2016-07",
+    "cambridge311": 23
+  },
+  {
+    "month": "2016-08",
+    "cambridge311": 34
+  },
+  {
+    "month": "2016-09",
+    "cambridge311": 38
+  },
+  {
+    "month": "2016-10",
+    "cambridge311": 26
+  },
+  {
+    "month": "2016-11",
+    "cambridge311": 16
+  },
+  {
+    "month": "2016-12",
+    "cambridge311": 26
+  },
+  {
+    "month": "2017-01",
+    "cambridge311": 30
+  },
+  {
+    "month": "2017-02",
+    "cambridge311": 43
+  },
+  {
+    "month": "2017-03",
+    "cambridge311": 22
+  },
+  {
+    "month": "2017-04",
+    "cambridge311": 35
+  },
+  {
+    "month": "2017-05",
+    "cambridge311": 27
+  },
+  {
+    "month": "2017-06",
+    "cambridge311": 31
+  },
+  {
+    "month": "2017-07",
+    "cambridge311": 44
+  },
+  {
+    "month": "2017-08",
+    "cambridge311": 47
+  },
+  {
+    "month": "2017-09",
+    "cambridge311": 47
+  },
+  {
+    "month": "2017-10",
+    "cambridge311": 55
+  },
+  {
+    "month": "2017-11",
+    "cambridge311": 36
+  },
+  {
+    "month": "2017-12",
+    "cambridge311": 19
+  },
+  {
+    "month": "2018-01",
+    "cambridge311": 103
+  },
+  {
+    "month": "2018-02",
+    "cambridge311": 45
+  },
+  {
+    "month": "2018-03",
+    "cambridge311": 74
+  },
+  {
+    "month": "2018-04",
+    "cambridge311": 97
+  },
+  {
+    "month": "2018-05",
+    "cambridge311": 95
+  },
+  {
+    "month": "2018-06",
+    "cambridge311": 108
+  },
+  {
+    "month": "2018-07",
+    "cambridge311": 57
+  },
+  {
+    "month": "2018-08",
+    "cambridge311": 20
+  },
+  {
+    "month": "2018-09",
+    "cambridge311": 23
+  },
+  {
+    "month": "2018-10",
+    "cambridge311": 23
+  },
+  {
+    "month": "2018-11",
+    "cambridge311": 18
+  },
+  {
+    "month": "2018-12",
+    "cambridge311": 15
+  },
+  {
+    "month": "2019-01",
+    "cambridge311": 42
+  },
+  {
+    "month": "2019-02",
+    "cambridge311": 17
+  },
+  {
+    "month": "2019-03",
+    "cambridge311": 18
+  },
+  {
+    "month": "2019-04",
+    "cambridge311": 32
+  },
+  {
+    "month": "2019-05",
+    "cambridge311": 36
+  },
+  {
+    "month": "2019-06",
+    "cambridge311": 59
+  },
+  {
+    "month": "2019-07",
+    "cambridge311": 40
+  },
+  {
+    "month": "2019-08",
+    "cambridge311": 56
+  },
+  {
+    "month": "2019-09",
+    "cambridge311": 56
+  },
+  {
+    "month": "2019-10",
+    "cambridge311": 32
+  },
+  {
+    "month": "2019-11",
+    "cambridge311": 27
+  },
+  {
+    "month": "2019-12",
+    "cambridge311": 25
+  },
+  {
+    "month": "2020-01",
+    "cambridge311": 62
+  },
+  {
+    "month": "2020-02",
+    "cambridge311": 67
+  },
+  {
+    "month": "2020-03",
+    "cambridge311": 137
+  },
+  {
+    "month": "2020-04",
+    "cambridge311": 199
+  },
+  {
+    "month": "2020-05",
+    "cambridge311": 119
+  },
+  {
+    "month": "2020-06",
+    "cambridge311": 171
+  },
+  {
+    "month": "2020-07",
+    "cambridge311": 207
+  },
+  {
+    "month": "2020-08",
+    "cambridge311": 185
+  },
+  {
+    "month": "2020-09",
+    "cambridge311": 195
+  },
+  {
+    "month": "2020-10",
+    "cambridge311": 151
+  },
+  {
+    "month": "2020-11",
+    "cambridge311": 233
+  },
+  {
+    "month": "2020-12",
+    "cambridge311": 248
+  },
+  {
+    "month": "2021-01",
+    "cambridge311": 146
+  },
+  {
+    "month": "2021-02",
+    "cambridge311": 106
+  },
+  {
+    "month": "2021-03",
+    "cambridge311": 110
+  },
+  {
+    "month": "2021-04",
+    "cambridge311": 159
+  },
+  {
+    "month": "2021-05",
+    "cambridge311": 204
+  },
+  {
+    "month": "2021-06",
+    "cambridge311": 256
+  },
+  {
+    "month": "2021-07",
+    "cambridge311": 187
+  },
+  {
+    "month": "2021-08",
+    "cambridge311": 227
+  },
+  {
+    "month": "2021-09",
+    "cambridge311": 269
+  },
+  {
+    "month": "2021-10",
+    "cambridge311": 163
+  },
+  {
+    "month": "2021-11",
+    "cambridge311": 169
+  },
+  {
+    "month": "2021-12",
+    "cambridge311": 163
+  },
+  {
+    "month": "2022-01",
+    "cambridge311": 194
+  },
+  {
+    "month": "2022-02",
+    "cambridge311": 228
+  },
+  {
+    "month": "2022-03",
+    "cambridge311": 210
+  },
+  {
+    "month": "2022-04",
+    "cambridge311": 121
+  },
+  {
+    "month": "2022-05",
+    "cambridge311": 154
+  },
+  {
+    "month": "2022-06",
+    "cambridge311": 255
+  },
+  {
+    "month": "2022-07",
+    "cambridge311": 213
+  },
+  {
+    "month": "2022-08",
+    "cambridge311": 257
+  },
+  {
+    "month": "2022-09",
+    "cambridge311": 228
+  },
+  {
+    "month": "2022-10",
+    "cambridge311": 190
+  },
+  {
+    "month": "2022-11",
+    "cambridge311": 127
+  },
+  {
+    "month": "2022-12",
+    "cambridge311": 138
+  },
+  {
+    "month": "2023-01",
+    "cambridge311": 144
+  },
+  {
+    "month": "2023-02",
+    "cambridge311": 70
+  },
+  {
+    "month": "2023-03",
+    "cambridge311": 106
+  },
+  {
+    "month": "2023-04",
+    "cambridge311": 104
+  },
+  {
+    "month": "2023-05",
+    "cambridge311": 140
+  },
+  {
+    "month": "2023-06",
+    "cambridge311": 139
+  },
+  {
+    "month": "2023-07",
+    "cambridge311": 188
+  },
+  {
+    "month": "2023-08",
+    "cambridge311": 206
+  },
+  {
+    "month": "2023-09",
+    "cambridge311": 228
+  },
+  {
+    "month": "2023-10",
+    "cambridge311": 168
+  },
+  {
+    "month": "2023-11",
+    "cambridge311": 128
+  },
+  {
+    "month": "2023-12",
+    "cambridge311": 133
+  },
+  {
+    "month": "2024-01",
+    "cambridge311": 178
+  },
+  {
+    "month": "2024-02",
+    "cambridge311": 128
+  },
+  {
+    "month": "2024-03",
+    "cambridge311": 110
+  },
+  {
+    "month": "2024-04",
+    "cambridge311": 121
+  },
+  {
+    "month": "2024-05",
+    "cambridge311": 164
+  },
+  {
+    "month": "2024-06",
+    "cambridge311": 207
+  },
+  {
+    "month": "2024-07",
+    "cambridge311": 209
+  },
+  {
+    "month": "2024-08",
+    "cambridge311": 183
+  },
+  {
+    "month": "2024-09",
+    "cambridge311": 194
+  },
+  {
+    "month": "2024-10",
+    "cambridge311": 138
+  },
+  {
+    "month": "2024-11",
+    "cambridge311": 142
+  },
+  {
+    "month": "2024-12",
+    "cambridge311": 139
+  },
+  {
+    "month": "2025-01",
+    "cambridge311": 144
+  },
+  {
+    "month": "2025-02",
+    "cambridge311": 115
+  },
+  {
+    "month": "2025-03",
+    "cambridge311": 133
+  },
+  {
+    "month": "2025-04",
+    "cambridge311": 164
+  },
+  {
+    "month": "2025-05",
+    "cambridge311": 192
+  },
+  {
+    "month": "2025-06",
+    "cambridge311": 167
+  },
+  {
+    "month": "2025-07",
+    "cambridge311": 214
+  },
+  {
+    "month": "2025-08",
+    "cambridge311": 207
+  },
+  {
+    "month": "2025-09",
+    "cambridge311": 241
+  },
+  {
+    "month": "2025-10",
+    "cambridge311": 168
+  },
+  {
+    "month": "2025-11",
+    "cambridge311": 142
+  },
+  {
+    "month": "2025-12",
+    "cambridge311": 161
+  },
+  {
+    "month": "2026-01",
+    "cambridge311": 169
+  },
+  {
+    "month": "2026-02",
+    "cambridge311": 320
+  },
+  {
+    "month": "2026-03",
+    "cambridge311": 164
+  },
+  {
+    "month": "2026-04",
+    "cambridge311": 107
+  }
+]

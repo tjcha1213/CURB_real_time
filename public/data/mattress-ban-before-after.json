@@ -1,0 +1,44 @@
+[
+  {
+    "period": "pre-ban",
+    "year": 2019,
+    "mattressesRecycledShortTons": 0,
+    "mattressesRecycledUnits": 35000,
+    "note": "Approximate; no EPR program — municipal + informal only."
+  },
+  {
+    "period": "pre-ban",
+    "year": 2020,
+    "mattressesRecycledShortTons": 0,
+    "mattressesRecycledUnits": 40000,
+    "note": "Approximate; pre-ban voluntary."
+  },
+  {
+    "period": "pre-ban",
+    "year": 2021,
+    "mattressesRecycledShortTons": 0,
+    "mattressesRecycledUnits": 60000,
+    "note": "MassDEP grants announced; collection ramp-up."
+  },
+  {
+    "period": "pre-ban",
+    "year": 2022,
+    "mattressesRecycledShortTons": 0,
+    "mattressesRecycledUnits": 120000,
+    "note": "Ban took effect 2022-11-01; partial-year ramp."
+  },
+  {
+    "period": "post-ban",
+    "year": 2023,
+    "mattressesRecycledShortTons": 0,
+    "mattressesRecycledUnits": 330000,
+    "note": "First full ban year; municipalities scale up via $2.7M MassDEP grants."
+  },
+  {
+    "period": "post-ban",
+    "year": 2024,
+    "mattressesRecycledShortTons": 0,
+    "mattressesRecycledUnits": 399000,
+    "note": "EPR Commission background doc (2025-06-10): ~66% of MA mattress generation diverted."
+  }
+]

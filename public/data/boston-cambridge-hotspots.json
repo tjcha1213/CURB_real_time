@@ -1,0 +1,192 @@
+[
+  {
+    "geoid": "DOWNTOWN",
+    "name": "Downtown",
+    "complaintsPerHousehold": 64.231,
+    "studentHouseholdShare": 0.2,
+    "lon": -71.059,
+    "lat": 42.3553,
+    "annualizedSeptemberComplaints": 501.0,
+    "housingUnits": 7800
+  },
+  {
+    "geoid": "BACK_BAY",
+    "name": "Back Bay",
+    "complaintsPerHousehold": 21.22,
+    "studentHouseholdShare": 0.18,
+    "lon": -71.081,
+    "lat": 42.3505,
+    "annualizedSeptemberComplaints": 269.5,
+    "housingUnits": 12700
+  },
+  {
+    "geoid": "SOUTH_END",
+    "name": "South End",
+    "complaintsPerHousehold": 18.915,
+    "studentHouseholdShare": 0.15,
+    "lon": -71.078,
+    "lat": 42.3396,
+    "annualizedSeptemberComplaints": 357.5,
+    "housingUnits": 18900
+  },
+  {
+    "geoid": "SOUTH_BOSTON",
+    "name": "South Boston",
+    "complaintsPerHousehold": 16.891,
+    "studentHouseholdShare": 0.09,
+    "lon": -71.043,
+    "lat": 42.334,
+    "annualizedSeptemberComplaints": 339.5,
+    "housingUnits": 20100
+  },
+  {
+    "geoid": "EAST_BOSTON",
+    "name": "East Boston",
+    "complaintsPerHousehold": 11.436,
+    "studentHouseholdShare": 0.05,
+    "lon": -71.039,
+    "lat": 42.3795,
+    "annualizedSeptemberComplaints": 223.0,
+    "housingUnits": 19500
+  },
+  {
+    "geoid": "MISSION_HILL",
+    "name": "Mission Hill",
+    "complaintsPerHousehold": 11.042,
+    "studentHouseholdShare": 0.45,
+    "lon": -71.105,
+    "lat": 42.3304,
+    "annualizedSeptemberComplaints": 79.5,
+    "housingUnits": 7200
+  },
+  {
+    "geoid": "ALLSTON",
+    "name": "Allston",
+    "complaintsPerHousehold": 10.82,
+    "studentHouseholdShare": 0.55,
+    "lon": -71.1315,
+    "lat": 42.3539,
+    "annualizedSeptemberComplaints": 138.5,
+    "housingUnits": 12800
+  },
+  {
+    "geoid": "ROXBURY",
+    "name": "Roxbury",
+    "complaintsPerHousehold": 9.893,
+    "studentHouseholdShare": 0.12,
+    "lon": -71.089,
+    "lat": 42.3299,
+    "annualizedSeptemberComplaints": 231.5,
+    "housingUnits": 23400
+  },
+  {
+    "geoid": "MATTAPAN",
+    "name": "Mattapan",
+    "complaintsPerHousehold": 8.144,
+    "studentHouseholdShare": 0.04,
+    "lon": -71.092,
+    "lat": 42.2671,
+    "annualizedSeptemberComplaints": 79.0,
+    "housingUnits": 9700
+  },
+  {
+    "geoid": "BRIGHTON",
+    "name": "Brighton",
+    "complaintsPerHousehold": 6.493,
+    "studentHouseholdShare": 0.35,
+    "lon": -71.156,
+    "lat": 42.3498,
+    "annualizedSeptemberComplaints": 143.5,
+    "housingUnits": 22100
+  },
+  {
+    "geoid": "DORCHESTER",
+    "name": "Dorchester",
+    "complaintsPerHousehold": 5.655,
+    "studentHouseholdShare": 0.08,
+    "lon": -71.062,
+    "lat": 42.3,
+    "annualizedSeptemberComplaints": 259.0,
+    "housingUnits": 45800
+  },
+  {
+    "geoid": "CHARLESTOWN",
+    "name": "Charlestown",
+    "complaintsPerHousehold": 5.312,
+    "studentHouseholdShare": 0.07,
+    "lon": -71.062,
+    "lat": 42.3782,
+    "annualizedSeptemberComplaints": 51.0,
+    "housingUnits": 9600
+  },
+  {
+    "geoid": "JAMAICA_PLAIN",
+    "name": "Jamaica Plain",
+    "complaintsPerHousehold": 4.87,
+    "studentHouseholdShare": 0.12,
+    "lon": -71.114,
+    "lat": 42.3097,
+    "annualizedSeptemberComplaints": 94.0,
+    "housingUnits": 19300
+  },
+  {
+    "geoid": "HYDE_PARK",
+    "name": "Hyde Park",
+    "complaintsPerHousehold": 4.661,
+    "studentHouseholdShare": 0.04,
+    "lon": -71.1254,
+    "lat": 42.2555,
+    "annualizedSeptemberComplaints": 55.0,
+    "housingUnits": 11800
+  },
+  {
+    "geoid": "FENWAY",
+    "name": "Fenway",
+    "complaintsPerHousehold": 3.911,
+    "studentHouseholdShare": 0.5,
+    "lon": -71.095,
+    "lat": 42.3436,
+    "annualizedSeptemberComplaints": 70.0,
+    "housingUnits": 17900
+  },
+  {
+    "geoid": "WEST_ROXBURY",
+    "name": "West Roxbury",
+    "complaintsPerHousehold": 3.288,
+    "studentHouseholdShare": 0.04,
+    "lon": -71.162,
+    "lat": 42.2798,
+    "annualizedSeptemberComplaints": 36.5,
+    "housingUnits": 11100
+  },
+  {
+    "geoid": "ROSLINDALE",
+    "name": "Roslindale",
+    "complaintsPerHousehold": 1.748,
+    "studentHouseholdShare": 0.05,
+    "lon": -71.1293,
+    "lat": 42.2855,
+    "annualizedSeptemberComplaints": 21.5,
+    "housingUnits": 12300
+  },
+  {
+    "geoid": "NORTH_END",
+    "name": "North End",
+    "complaintsPerHousehold": 0.0,
+    "studentHouseholdShare": 0.1,
+    "lon": -71.0535,
+    "lat": 42.3647,
+    "annualizedSeptemberComplaints": 0.0,
+    "housingUnits": 5900
+  },
+  {
+    "geoid": "WEST_END",
+    "name": "West End",
+    "complaintsPerHousehold": 0.0,
+    "studentHouseholdShare": 0.12,
+    "lon": -71.064,
+    "lat": 42.3636,
+    "annualizedSeptemberComplaints": 0.0,
+    "housingUnits": 2100
+  }
+]
